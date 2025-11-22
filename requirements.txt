@@ -5,3 +5,4 @@ requests
 gunicorn
 gtts
 flask_cors
+flask_jwt_extended
